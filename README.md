@@ -1,4 +1,4 @@
-## 🐱 JMeter
+## ⚡ JMeter
 [Нагрузочные тесты для двух эндпоинтов в Jmeter](https://github.com/Victoriya-R/JMeter/blob/main/JMeter.jmx)
 
 - Авторизация /users/obtain-token
