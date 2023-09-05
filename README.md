@@ -1,5 +1,5 @@
 ## 🐱 JMeter
-([Нагрузочные тесты для двух эндпоинтов в Jmeter])([https://github.com/Victoriya-R/JMeter/blob/main/JMeter.jmx])
+[Нагрузочные тесты для двух эндпоинтов в Jmeter](https://github.com/Victoriya-R/JMeter/blob/main/JMeter.jmx)
 
 - Авторизация /users/obtain-token
 - Создание водителя /insured_objects/drivers
